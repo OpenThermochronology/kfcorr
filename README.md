@@ -1,7 +1,7 @@
 ---
 ### ABOUT kfcorr
 
-Calculation of correlation coefficient between age and log1o(r/ro) spectra.
+Calculation of correlation coefficient between age and log10(r/ro) spectra.
 
 Version of Oscar Lovera's corrfft code. Changes made by Peter Zeitler to permit simpler input and output, and to plot results if the user has the gmt package installed.
 
